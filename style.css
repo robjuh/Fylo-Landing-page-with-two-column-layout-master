@@ -63,7 +63,6 @@ img {
 
 .bg-gray {
     background: hsl(240, 75%, 98%);
-    background-image: url(images/bg-curve-desktop.svg);
 }
 
 .chapter {
@@ -328,6 +327,9 @@ input[type=submit]:hover {
 
 
 
-
+.image-test {
+    background-image: url('images/bg-curve-desktop.svg');
+    background-position: top;
+}
   
  
